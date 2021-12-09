@@ -1,11 +1,4 @@
 theme: jekyll-theme-time-machine
-title: Welcome to my Homepage
-description: Please bookmark to keep updated on my progress.
-
-#Artifact 1
-
-The artifact I have chosen for my final project is an application that allows a zookeeper to access information about both animals and habitats in the zoo. I chose this artifact because it was created early on in my development in Computer Science and I wanted to be able to show off the skills I have learned using good coding practices to show hiring managers I am able to write clean and clear code, that can be understood within a team environment. Another ability that I want to be able to show recruiters is my problem-solving ability and translate that to overcoming exceptions in my code to create a working program.
-So far, I have improved my artifact by creating a more modular code. I have broken the code down into separate classes and then called those classes to return the information I need based on user selection. This allows the individual components of this program to stay separated. The other way breaking down my program helps improve the code is by making it easier to work with. When finding and fixing errors, I can go to the specific class that is not working instead of having to search throughout the main to find the method. This saves time during the testing process.
-I met some of the course objectives in this week's deliverable. While I wanted to show a more structured code and I succeeded in that aspect, I also wanted to create a GUI of the program to show recruiters a polished program using front end development work. The ability to code on both the back and front end of a program is another skill that I want to show potential employers. I have not worked in Java to create a GUI and while it seems straight forward, I have had issues created multiple pages in the application to mirror my initial code design. I plan on continuing to research and problem solve the correct way to get the desired outcome.
-Through this artifact, I have learned details on how GUI’s work in Java. I have learned that it is easier to work in code that is separated out into smaller parts. One large item I had to learn was to relearn some of the Java language to get my desired results. The last part of my degree track has had me coding in C++ and while they are both higher level programming languages, there are nuances between them that I had to overcome. The largest challenge that I faced was finding adequate information on building a GUI with multiple selection menus. I am going to continue working on it until I can solve the issues I am having getting a JFrame to call another JFrame.
+title: ePortfolio
+description: Welcome to Matthew Caldwell's SNHU Capstone Project
 
