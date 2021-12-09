@@ -1,5 +1,9 @@
-## Computer Science ePortfolio
-### Matthew Caldwell
+## SNHU Computer Science Capstone Project
+### Introduction
+
+I have been working towards my B.S Computer Science at Southern New Hampshire University since 2018. Through the degree program, I have learned valuable skills that will allow me to help create a collaborative enviroment with
+
+
 
 [Code Review](https://www.youtube.com/watch?v=KkmQToteMh0)
 
