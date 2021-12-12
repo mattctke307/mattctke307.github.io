@@ -30,7 +30,9 @@ The second artifact enhances the orgininal by adding a layer of security to the 
 Throughout my coursework, I have worked in both MySQL and MongoDB to attach code to databases. In this instance, I chose to link a MySql database to the program. By using the services tab in NetBeans, I linked a database to the program through which I could modify user access information without the need of the command line interface. In a team setting, this would allow project managers to easily make changes without the knowledge of how the command line interace works in the databse. 
 
 [Code Review](https://www.youtube.com/watch?v=KkmQToteMh0)
+
 [Artifact 1 & 2](https://github.com/mattctke307/ZooApp)
+
 [Artifact 3](https://github.com/mattctke307/ConnectingMySQLToNetbeans)
 
 
